@@ -8,7 +8,7 @@
  * Author: Chingchai Humhong (chingchaih@nu.ac.th, chingchai.h@gmail.com)
  !--> */
 $hostname_db = "localhost";
-$database_db = "hotspot";
+$database_db = "geodb";
 $username_db = "postgres";
 $password_db = "password";
 
