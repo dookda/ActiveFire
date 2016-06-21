@@ -8,3 +8,4 @@ Import Active Fire Data into PostgreSQL/PostGIS Database
 - nasafire.php
 
 # TODO
+- install PostgreSQL/PostGIS
